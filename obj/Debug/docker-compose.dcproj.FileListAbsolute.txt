@@ -1,0 +1,10 @@
+D:\DotNet\SpyStore2\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\DotNet\SpyStore2\bin\Debug\SpyStore.Service.dll
+D:\DotNet\SpyStore2\bin\Debug\SpyStore.Dal.dll
+D:\DotNet\SpyStore2\bin\Debug\SpyStore.Models.dll
+D:\DotNet\SpyStore2\bin\Debug\SpyStore.Service.pdb
+D:\DotNet\SpyStore2\bin\Debug\SpyStore.Service.xml
+D:\DotNet\SpyStore2\bin\Debug\SpyStore.Dal.pdb
+D:\DotNet\SpyStore2\bin\Debug\SpyStore.Models.pdb
+D:\DotNet\SpyStore2\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\DotNet\SpyStore2\obj\Debug\docker-compose.dcproj.CopyComplete

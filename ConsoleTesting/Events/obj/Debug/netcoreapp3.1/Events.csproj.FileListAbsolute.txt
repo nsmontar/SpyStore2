@@ -1,0 +1,13 @@
+D:\DotNet\ConsoleTesting\Events\bin\Debug\netcoreapp3.1\Events.exe
+D:\DotNet\ConsoleTesting\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+D:\DotNet\ConsoleTesting\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+D:\DotNet\ConsoleTesting\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+D:\DotNet\ConsoleTesting\Events\bin\Debug\netcoreapp3.1\Events.dll
+D:\DotNet\ConsoleTesting\Events\bin\Debug\netcoreapp3.1\Events.pdb
+D:\DotNet\ConsoleTesting\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+D:\DotNet\ConsoleTesting\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+D:\DotNet\ConsoleTesting\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+D:\DotNet\ConsoleTesting\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+D:\DotNet\ConsoleTesting\Events\obj\Debug\netcoreapp3.1\Events.dll
+D:\DotNet\ConsoleTesting\Events\obj\Debug\netcoreapp3.1\Events.pdb
+D:\DotNet\ConsoleTesting\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

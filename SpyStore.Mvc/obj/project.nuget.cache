@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ylUVmqXlvZrIisDG/WUuIT4hZPkEVWXL3DHUtGcVNqMafg3q720XFfQ1hRC203VQbzAl05KNt9w/bZ++HP4ANA==",
+  "dgSpecHash": "dqfPzRTSUodCEkv516Kzt1m0ePH/smxkQGJU9NIQuMfTEgWt6W5xdlS50XkujHLGsDXYiaPcgHUSHfjcnNFLJw==",
   "success": true,
   "projectFilePath": "D:\\DotNet\\SpyStore2\\SpyStore.Mvc\\SpyStore.Mvc.csproj",
   "expectedPackageFiles": [
@@ -172,6 +172,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\microsoft.web.librarymanager.build\\2.1.113\\microsoft.web.librarymanager.build.2.1.113.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
@@ -252,6 +253,7 @@
     "C:\\Users\\nsmon\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\nsmon\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
     "C:\\Users\\nsmon\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.serialization.xml\\4.3.0\\system.runtime.serialization.xml.4.3.0.nupkg.sha512",

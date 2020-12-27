@@ -12,6 +12,40 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1739944283,
+        "Kind": "ITagHelper",
+        "Name": "SpyStore.Mvc.TagHelpers.EmailTagHelper",
+        "AssemblyName": "SpyStore.Mvc",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "email"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "ITagHelper",
+            "Name": "email-name",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "EmailName"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "email-domain",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "EmailDomain"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "SpyStore.Mvc.TagHelpers.EmailTagHelper"
+        }
+      },
+      {
         "HashCode": 1391904457,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
@@ -2358,6 +2392,11 @@
     {
       "FilePath": "d:\\DotNet\\SpyStore2\\SpyStore.Mvc\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SpyStore2\\SpyStore.Mvc\\Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
+      "TargetPath": "Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -2383,6 +2383,23 @@
           "Runtime.Name": "ITagHelper",
           "Common.TypeName": "WebOptimizer.Taghelpers.ScriptTagHelper"
         }
+      },
+      {
+        "HashCode": -1958129834,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__MenuViewComponentTagHelper",
+        "AssemblyName": "SpyStore.Mvc",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:menu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__MenuViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "Menu"
+        }
       }
     ],
     "CSharpLanguageVersion": 900
@@ -2397,6 +2414,11 @@
     {
       "FilePath": "d:\\DotNet\\SpyStore2\\SpyStore.Mvc\\Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
       "TargetPath": "Views\\Shared\\DisplayTemplates\\DateTime.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\DotNet\\SpyStore2\\SpyStore.Mvc\\Views\\Shared\\Components\\Menu\\MenuView.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Menu\\MenuView.cshtml",
       "FileKind": "mvc"
     },
     {

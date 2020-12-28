@@ -38,6 +38,23 @@ namespace SpyStore.Mvc
             services.Configure<ServiceSettings>(
                 Configuration.GetSection("ServiceSettings"));
             services.AddHttpClient<SpyStoreServiceWrapper>();
+
+            if (_env.IsDevelopment() || _env.EnvironmentName == "Local")
+            {
+                services.AddWebOptimizer(false,false);
+            }
+            else
+            {
+                services.AddWebOptimizer(options =>
+                {
+                    options.MinifyCssFiles(); //Minifies all CSS files
+                    //options.MinifyJsFiles(); //Minifies all JS files
+                    options.MinifyJsFiles("js/site.js");
+                    options.AddJavaScriptBundle("js/validations/validationCode.js",
+                    "js/validations/**/*.js");
+                    // options.AddJavaScriptBundle("js/validations/validationCode.js", "js/validation/validators.js", "js/validation/errorFormating.js");
+                });
+            }
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,6 +69,7 @@ namespace SpyStore.Mvc
                 app.UseExceptionHandler("/Home/Error");
             }
 
+            app.UseWebOptimizer();
             app.UseStaticFiles();
             // app.UseCookiePolicy();
 
